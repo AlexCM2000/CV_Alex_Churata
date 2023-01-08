@@ -50,6 +50,10 @@
     .profile-img img{
         width: 90%;
     }
+     .profile-img{
+        width: 368px;
+         height: 300px;
+    }
 
     .projects-container{
         padding: 20px;
@@ -139,7 +143,10 @@
     .profile-img img{
         width: 100%;
     }
-
+ .profile-img{
+        width: 368px;
+         height: 300px;
+    }
     .projects-container{
         padding: 10px;
     }
